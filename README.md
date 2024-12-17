@@ -11,7 +11,7 @@
 - ⚡ Fun fact: **[Something Interesting About You]**
 
 ### 🌐 Let's Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aminur-rahman-asif-a16b51293/)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/md-aminur-rahman-asif-a16b51293/)
 [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
