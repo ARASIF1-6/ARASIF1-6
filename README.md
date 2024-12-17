@@ -37,7 +37,7 @@
 ---
 
 ### 📈 Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=@ARASIF1-6&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=ARASIF1-6&color=brightgreen)
 
 ---
 
