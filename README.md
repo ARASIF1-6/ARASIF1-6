@@ -3,6 +3,13 @@
   <h2 style="color:#70a5fd; font-size: 28px;">Software Engineer, AI/ML, Data Science and Robotics Enthusiast</h2>
 </div>
 
+---
+
+### 📈 Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=ARASIF1-6&color=brightgreen)
+
+---
+
 🌟 **About Me:**
 - 🔭 I’m currently working on **[Your Current Project]**
 - 🌱 I’m currently learning **[Specific Technology/Skill]**
@@ -33,11 +40,6 @@
 - 🌐 **[Project Name 1]** - [Brief description with link if available]
 - 📱 **[Project Name 2]** - [Brief description with link if available]
 - 🛠 **[Project Name 3]** - [Brief description with link if available]
-
----
-
-### 📈 Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=ARASIF1-6&color=brightgreen)
 
 ---
 <!---
