@@ -1,4 +1,4 @@
-  # Hi there! 👋 I'm AR ASIF
+<div align="center"> # Hi there! 👋 I'm AR ASIF </div>
 
 🌟 **About Me:**
 - 🔭 I’m currently working on **[Your Current Project]**
