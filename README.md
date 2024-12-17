@@ -11,9 +11,9 @@
 - ⚡ Fun fact: **[Something Interesting About You]**
 
 ### 🌐 Let's Connect with me:
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tazdik-hossain-5b0176278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tazdik-hossain-5b0176278/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/tazdikhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tazdikhossain" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tazdik.hossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tazdik.hossain/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-aminur-rahman-asif-a16b51293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-aminur-rahman-asif-a16b51293/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ar.asif.187606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ar.asif.187606" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mdaminurrahmanasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mdaminurrahmanasif" height="30" width="40" /></a>
 
 ---
 
