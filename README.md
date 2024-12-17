@@ -10,6 +10,12 @@
 - 🎯 My goal: **[Your Professional Goal or Passion]**
 - ⚡ Fun fact: **[Something Interesting About You]**
 
+### 🌐 Let's Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aminur-rahman-asif-a16b51293/)
+[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
 ---
 
 ### 🛠 Languages and Tools:
@@ -43,12 +49,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
 ---
-
-### 🌐 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
-[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 <!---
 - 👋 Hi, I’m @ARASIF1-6
 - 👀 I’m interested in web development, android and . NET development, Machine Learning segment of AI & Robotics.
