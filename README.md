@@ -14,6 +14,7 @@
 - 🌱 I’m currently learning **Deep Learning.**
 - 💬 Ask me about **C++, Java, C#, Python, Php, Js, Next, Nest, Mysql, Oracle, PostgreSQL, MS SQL, Type ORM, ASP.NET, Entity Framework, TensorFlow, OpenCV, Pandas, SDLC, CNN, NN, AI/ML, Deep Learning, Robotics.**
 - 📫 How to reach me **asifhossain1935@gmail.com**
+- 🎮 Fifa, GTA 5
 <!--- - 🎯 My goal: **[Your Professional Goal or Passion]**
 - ⚡ Fun fact: **[Something Interesting About You]** --->
 
