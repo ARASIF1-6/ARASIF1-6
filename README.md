@@ -9,11 +9,13 @@
 ---
 
 🌟 **About Me:**
+- 👀 I’m interested in Web and App development, ASP.NET development, Machine Learning segment of AI & Robotics.
 - 🔭 I’m currently working on **CVPR Project(https://github.com/ARASIF1-6/CVPR_Fall_24_25)**
-- 🌱 I’m currently learning **Deep Learning**
-- 💬 Ask me about **C++, Java, C#, Python, Php, Js, Next, Nest, Mysql, Oracal**
-- 🎯 My goal: **[Your Professional Goal or Passion]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+- 🌱 I’m currently learning **Deep Learning.**
+- 💬 Ask me about **C++, Java, C#, Python, Php, Js, Next, Nest, Mysql, Oracle, PostgreSQL, MS SQL, Type ORM, ASP.NET, Entity Framework, TensorFlow, OpenCV, Pandas, SDLC, CNN, NN, AI/ML, Deep Learning, Robotics.**
+- 📫 How to reach me **asifhossain1935@gmail.com**
+<!--- - 🎯 My goal: **[Your Professional Goal or Passion]**
+- ⚡ Fun fact: **[Something Interesting About You]** --->
 
 ---
 
