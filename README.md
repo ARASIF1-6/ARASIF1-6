@@ -1,3 +1,5 @@
+---
+
 <div align="center">
   <h1 style="color:#70a5fd; font-size: 48px;">Hi there! 👋 I'm AR ASIF</h1>
   <h2 style="color:#70a5fd; font-size: 28px;">Software Engineer, AI/ML, Data Science and Robotics Enthusiast</h2>
@@ -5,7 +7,6 @@
 
 ---
 
-### 📈 Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=ARASIF1-6&color=brightgreen)
 
 ---
