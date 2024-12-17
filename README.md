@@ -12,10 +12,8 @@
 
 ### 🌐 Let's Connect with me:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tazdik-hossain-5b0176278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tazdik-hossain-5b0176278/" height="30" width="40" /></a>
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/md-aminur-rahman-asif-a16b51293/)
-[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+<a href="https://kaggle.com/https://www.kaggle.com/tazdikhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tazdikhossain" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/tazdik.hossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tazdik.hossain/" height="30" width="40" /></a>
 
 ---
 
