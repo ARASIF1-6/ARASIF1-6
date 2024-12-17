@@ -1,4 +1,7 @@
-<div align="center"> # Hi there! 👋 I'm AR ASIF </div>
+<div align="center">
+  <h1 style="color:#70a5fd; font-size: 48px;">Hi there! 👋 I'm AR ASIF</h1>
+  <h2 style="color:#70a5fd; font-size: 28px;">Software Engineer, AI/ML, Data Science and Robotics Enthusiast</h2>
+</div>
 
 🌟 **About Me:**
 - 🔭 I’m currently working on **[Your Current Project]**
